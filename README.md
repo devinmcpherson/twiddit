@@ -9,4 +9,4 @@ While in the root directory run `docker-compose up`. This will start up the data
 
 Keep in mind that any change to the api will require you to run `docker-compose up --build` in order to rebuild the docker images.
 
-Them simply navigate into the `ionic-client` directory and run `ionic serve`.
+Then simply navigate into the `ionic-client` directory and run `ionic serve`.
